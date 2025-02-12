@@ -14,3 +14,37 @@ This project demonstrates various **Selenium WebDriver** automation techniques u
 - **Assertions & Validations:** Verifying element states and content using test assertions.
 
 Each script focuses on a specific Selenium functionality and is **not tied to a single web application**. Instead, different websites are used to demonstrate various automation concepts effectively.
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/selenium-js-project.git
+cd selenium-js-project
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Install required packages:
+```bash
+npm install selenium-webdriver
+npm install chai
+npm install chromedriver
+```
+## Running Tests
+Execute individual test files:
+```bash
+node tests/locators.js
+node tests/assertions.js
+```
+
+## Technologies Used
+- Selenium WebDriver – Automating browser interactions
+- Node.js – JavaScript runtime environment
+- Chai – Assertion library for test validations
+
+
+
