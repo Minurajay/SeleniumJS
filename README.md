@@ -1,0 +1,16 @@
+# Selenium WebDriver with JavaScript
+
+## Project Overview
+This project demonstrates various **Selenium WebDriver** automation techniques using **JavaScript**. It covers essential Selenium concepts such as element locators, synchronization techniques, UI interactions, and test assertions. Each topic is implemented in a separate script, and different web applications are used for various examples, making it a broad, adaptable resource for learning and reference.
+
+### The scripts are designed to showcase:
+
+- **Locators & Selectors:** Using different locating strategies (ID, Class, Name, Tag, CSS Selectors, XPath).
+- **Browser Interaction:** Launching and navigating web pages.
+- **Element Interactions:** Clicking, typing, selecting options, and other interactions.
+- **Synchronization Techniques:** Handling implicit, explicit, and fluent waits.
+- **Handling Dynamic Locators:** Working with elements that change dynamically.
+- **UI Component Handling:** Automating radio buttons, checkboxes, alerts, and dialog boxes.
+- **Assertions & Validations:** Verifying element states and content using test assertions.
+
+Each script focuses on a specific Selenium functionality and is **not tied to a single web application**. Instead, different websites are used to demonstrate various automation concepts effectively.
